@@ -13,6 +13,7 @@ namespace progitforprogrammers
             Console.WriteLine("I just added this line for merging conflict");
 
             Console.WriteLine("one from cdm");
+            Console.WriteLine("One from Visual Studio");
         }
     }
 }
