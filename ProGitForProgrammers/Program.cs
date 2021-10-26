@@ -11,6 +11,8 @@ namespace progitforprogrammers
             Console.WriteLine("I just added this in the command line repo");
 
             Console.WriteLine("I just added this line for merging conflict");
+
+            Console.WriteLine("one from cdm");
         }
     }
 }
